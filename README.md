@@ -1,1 +1,0 @@
-# Ecommerce-inventory-management-system

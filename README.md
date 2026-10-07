@@ -1,6 +1,6 @@
 # E-commerce Inventory System
 
-A relational database project for **CSE3001 - Database Management Systems** (VIT Bhopal), modeling inventory, suppliers, customers, and orders for a single-location e-commerce store.
+A relational database project for **CSE3001 - Database Management Systems** , modeling inventory, suppliers, customers, and orders for a single-location e-commerce store.
 
 ## Schema Overview
 
